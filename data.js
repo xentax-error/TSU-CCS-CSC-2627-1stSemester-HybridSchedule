@@ -77,7 +77,7 @@ const FREE_CODE_INFO = {
   WMA3: { confirmed: true, programs: [{ program: "IT-WMA", year: 4 }] },
   WMA4: { confirmed: true, programs: [{ program: "IT-WMA", year: 4 }] },
   IPT2: { confirmed: true, programs: [{ program: "IT-WMA", year: 4 }] },
-  WEBAPP: { confirmed: false, programs: [{ program: "IT-WMA", year: null }] }
+  WEBAPP: { confirmed: true, programs: [{ program: "CS", year: null }, { program: "IT-NA", year: null }, { program: "IT-WMA", year: null }, { program: "IS", year: null }, { program: "IT-TSM", year: null }] }
 };
 
 
