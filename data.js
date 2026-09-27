@@ -2,7 +2,10 @@ const F2F_DAYS = ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Satur
 
 const F2F_SCHEDULE = {
   Monday: [
-    "BSIS-1B", "BSIS-2B", "BSCS-1C", "BSCS-2B", "TSM-1B", "TSM-2B", "NA-2B",
+    "BSIS-1B", "BSIS-2B",
+    "BSCS-1C", "BSCS-2B",
+    "TSM-1B", "TSM-2B",
+    "NA-2B",
     "WMA-1C", "WMA-1D", "WMA-1E", "WMA-2C", "WMA-2D", "WMA-4C",
     "CC6-FREE3", "WD-FREE1", "WMA3-FREE1", "CC2-FREE6", "CC2-FREE4", "CC2-FREE3",
     "CCNA1-FREE3", "CCNA1-FREE4", "CCNA1-FREE6", "PLF-FREE1", "CC1-FREE1"
@@ -28,8 +31,8 @@ const F2F_SCHEDULE = {
     "BSCS-1A", "BSCS-1B", "BSCS-3A", "BSCS-3B", "BSCS-4B",
     "TSM-1A", "TSM-2A", "TSM-3A",
     "NA-1B", "NA-1C", "NA-2A", "NA-3B", "NA-4A",
-    "WMA-1B", "WMA-2A", "WMA-2B", "WMA-3A", "WMA-3B", "WMA-4A", "WMA-4B", "WMA-4C",
-    "CCNA1-FREE1"
+    "WMA-1B", "WMA-2A", "WMA-2B", "WMA-3A", "WMA-4B", "WMA-4C",
+    "CCNA1-FREE1", "CC2-FREE5"
   ],
   Friday: [
     "BSIS-1A", "BSIS-2A", "BSIS-3A", "BSIS-3B",
@@ -37,14 +40,15 @@ const F2F_SCHEDULE = {
     "TSM-2A", "TSM-3A", "TSM-3B", "TSM-4A", "TSM-4B",
     "NA-1A", "NA-2A",
     "WMA-1A", "WMA-1B", "WMA-2A", "WMA-4A", "WMA-4B",
-    "CC2-FREE9", "CC2-FREE8", "CCNA1-FREE2", "CCNA1-FREE5"
+    "CC2-FREE8", "CC2-FREE9", "CCNA1-FREE2", "CCNA1-FREE5"
   ],
   Saturday: [
-    "BSIS-1B", "BSIS-2B", "BSCS-1C", "BSCS-2B",
+    "BSIS-1B", "BSIS-2B", 
+    "BSCS-1C", "BSCS-2B",
     "TSM-1B", "TSM-1C", "TSM-2B",
     "NA-1C", "NA-2B",
     "WMA-1C", "WMA-1D", "WMA-2C", "WMA-2D", "WMA-2E",
-    "CC6-FREE3", "CC6-FREE2", "WD-FREE2", "WMA4-FREE1", "IPT2-FREE1", "CC2-FREE2", "CC2-FREE1"
+    "CC6-FREE2", "WD-FREE2", "WMA4-FREE1", "IPT2-FREE1", "CC2-FREE1", "CC2-FREE2"
   ]
 };
 
