@@ -6,7 +6,7 @@ const F2F_SCHEDULE = {
     "BSCS-1C", "BSCS-2B",
     "TSM-1B", "TSM-2B",
     "NA-2B",
-    "WMA-1C", "WMA-1D", "WMA-1E", "WMA-2C", "WMA-2D", "WMA-4C",
+    "WMA-1C", "WMA-1D", "WMA-1E", "WMA-2C", "WMA-2D", "WMA-2E", "WMA-4C",
     "CC6-FREE3", "WD-FREE1", "WMA3-FREE1", "CC2-FREE6", "CC2-FREE4", "CC2-FREE3",
     "CCNA1-FREE3", "CCNA1-FREE4", "CCNA1-FREE6", "PLF-FREE1", "CC1-FREE1"
   ],
